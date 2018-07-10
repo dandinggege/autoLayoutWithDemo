@@ -19,6 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self createView];
+    NSLog(@"this is very good!");
 }
 
 -(void)createView{
